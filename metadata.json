@@ -1,0 +1,8 @@
+{
+  "name": "Football Vocabulary Championship",
+  "description": "Play real-world international tournaments and domestic football leagues powered by your personal English-Vietnamese vocabulary library and interactive penalty shootouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
